@@ -45,6 +45,7 @@
     <Compile Include="FindAllDuplicatesInArray\Solution.cs" />
     <Compile Include="FizzBuzz\Solution.cs" />
     <Compile Include="HammingDistance\Solution.cs" />
+    <Compile Include="ImplementTrie\Trie.cs" />
     <Compile Include="IslandPerimeter\Solution.cs" />
     <Compile Include="JewelsAndStones\Solution.cs" />
     <Compile Include="JudgeRouteCircle\Solution.cs" />
