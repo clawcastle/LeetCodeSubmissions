@@ -49,6 +49,7 @@
     <Compile Include="IslandPerimeter\Solution.cs" />
     <Compile Include="JewelsAndStones\Solution.cs" />
     <Compile Include="JudgeRouteCircle\Solution.cs" />
+    <Compile Include="LengthOfLastWord\Solution.cs" />
     <Compile Include="MajorityElement\Solution.cs" />
     <Compile Include="MaxConsecutiveOnes\Solution.cs" />
     <Compile Include="NumbersDisappearedInArray\Solution.cs" />
@@ -59,6 +60,7 @@
     <Compile Include="ReverseString\Solution.cs" />
     <Compile Include="RotateString\Solution.cs" />
     <Compile Include="SingleNumber\Solution.cs" />
+    <Compile Include="SlidingWindowMaximum\Solution.cs" />
     <Compile Include="SymmetricTree\Solution.cs" />
     <Compile Include="SymmetricTree\TreeNode.cs" />
     <Compile Include="TwoSum\Solution.cs" />
