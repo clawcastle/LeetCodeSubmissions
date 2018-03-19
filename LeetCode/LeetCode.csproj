@@ -43,6 +43,7 @@
     <Compile Include="BestTimeToBuySellStock2\Solution.cs" />
     <Compile Include="BestTimeToBuySellStock\Solution.cs" />
     <Compile Include="FindAllDuplicatesInArray\Solution.cs" />
+    <Compile Include="FindTheDifference\Solution.cs" />
     <Compile Include="FizzBuzz\Solution.cs" />
     <Compile Include="HammingDistance\Solution.cs" />
     <Compile Include="ImplementTrie\Trie.cs" />
@@ -64,6 +65,7 @@
     <Compile Include="SymmetricTree\Solution.cs" />
     <Compile Include="SymmetricTree\TreeNode.cs" />
     <Compile Include="TwoSum\Solution.cs" />
+    <Compile Include="ValidAnagram\Solution.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
