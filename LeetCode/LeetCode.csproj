@@ -55,6 +55,7 @@
     <Compile Include="MaxConsecutiveOnes\Solution.cs" />
     <Compile Include="NumbersDisappearedInArray\Solution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RansomNote\Solution.cs" />
     <Compile Include="ReverseInteger\Solution.cs" />
     <Compile Include="ReverseLinkedList\ListNode.cs" />
     <Compile Include="ReverseLinkedList\Solution.cs" />
