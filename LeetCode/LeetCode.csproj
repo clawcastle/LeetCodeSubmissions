@@ -46,6 +46,7 @@
     <Compile Include="FindTheDifference\Solution.cs" />
     <Compile Include="FizzBuzz\Solution.cs" />
     <Compile Include="HammingDistance\Solution.cs" />
+    <Compile Include="ImplementStrStr\Solution.cs" />
     <Compile Include="ImplementTrie\Trie.cs" />
     <Compile Include="IslandPerimeter\Solution.cs" />
     <Compile Include="JewelsAndStones\Solution.cs" />
@@ -53,6 +54,7 @@
     <Compile Include="LengthOfLastWord\Solution.cs" />
     <Compile Include="MajorityElement\Solution.cs" />
     <Compile Include="MaxConsecutiveOnes\Solution.cs" />
+    <Compile Include="MinStack\MinStack.cs" />
     <Compile Include="NumbersDisappearedInArray\Solution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RansomNote\Solution.cs" />
@@ -61,10 +63,15 @@
     <Compile Include="ReverseLinkedList\Solution.cs" />
     <Compile Include="ReverseString\Solution.cs" />
     <Compile Include="RotateString\Solution.cs" />
+    <Compile Include="SameTree\Solution.cs" />
+    <Compile Include="SameTree\TreeNode.cs" />
+    <Compile Include="Search2DMatrix\Solution.cs" />
     <Compile Include="SingleNumber\Solution.cs" />
     <Compile Include="SlidingWindowMaximum\Solution.cs" />
+    <Compile Include="StudentAttendanceRecord\Solution.cs" />
     <Compile Include="SymmetricTree\Solution.cs" />
     <Compile Include="SymmetricTree\TreeNode.cs" />
+    <Compile Include="TopKFrequentElements\Solution.cs" />
     <Compile Include="TwoSum\Solution.cs" />
     <Compile Include="ValidAnagram\Solution.cs" />
   </ItemGroup>
