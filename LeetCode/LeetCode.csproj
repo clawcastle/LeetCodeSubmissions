@@ -42,6 +42,8 @@
   <ItemGroup>
     <Compile Include="BestTimeToBuySellStock2\Solution.cs" />
     <Compile Include="BestTimeToBuySellStock\Solution.cs" />
+    <Compile Include="ContainsDuplicate2\Solution.cs" />
+    <Compile Include="ContainsDuplicate\Solution.cs" />
     <Compile Include="FindAllDuplicatesInArray\Solution.cs" />
     <Compile Include="FindTheDifference\Solution.cs" />
     <Compile Include="FizzBuzz\Solution.cs" />
@@ -49,13 +51,16 @@
     <Compile Include="ImplementStrStr\Solution.cs" />
     <Compile Include="ImplementTrie\Trie.cs" />
     <Compile Include="IslandPerimeter\Solution.cs" />
+    <Compile Include="IsomorphicStrings\Solution.cs" />
     <Compile Include="JewelsAndStones\Solution.cs" />
     <Compile Include="JudgeRouteCircle\Solution.cs" />
     <Compile Include="LengthOfLastWord\Solution.cs" />
     <Compile Include="MajorityElement\Solution.cs" />
     <Compile Include="MaxConsecutiveOnes\Solution.cs" />
     <Compile Include="MinStack\MinStack.cs" />
+    <Compile Include="MostCommonWord\Solution.cs" />
     <Compile Include="NumbersDisappearedInArray\Solution.cs" />
+    <Compile Include="PascalsTriangle\Solution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RansomNote\Solution.cs" />
     <Compile Include="ReverseInteger\Solution.cs" />
@@ -68,12 +73,16 @@
     <Compile Include="Search2DMatrix\Solution.cs" />
     <Compile Include="SingleNumber\Solution.cs" />
     <Compile Include="SlidingWindowMaximum\Solution.cs" />
+    <Compile Include="SortColors\Solution.cs" />
     <Compile Include="StudentAttendanceRecord\Solution.cs" />
     <Compile Include="SymmetricTree\Solution.cs" />
     <Compile Include="SymmetricTree\TreeNode.cs" />
     <Compile Include="TopKFrequentElements\Solution.cs" />
+    <Compile Include="ValidateBinarySearchTree\TreeNode.cs" />
     <Compile Include="TwoSum\Solution.cs" />
     <Compile Include="ValidAnagram\Solution.cs" />
+    <Compile Include="ValidateBinarySearchTree\Solution.cs" />
+    <Compile Include="WordPattern\Solution.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
