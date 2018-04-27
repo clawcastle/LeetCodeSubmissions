@@ -46,6 +46,7 @@
     <Compile Include="ContainsDuplicate\Solution.cs" />
     <Compile Include="FindAllDuplicatesInArray\Solution.cs" />
     <Compile Include="FindTheDifference\Solution.cs" />
+    <Compile Include="FirstMissingPositive\Solution.cs" />
     <Compile Include="FizzBuzz\Solution.cs" />
     <Compile Include="HammingDistance\Solution.cs" />
     <Compile Include="ImplementStrStr\Solution.cs" />
